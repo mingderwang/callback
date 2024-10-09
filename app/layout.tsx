@@ -21,7 +21,7 @@ export default function RootLayout({
 
   const menuItems = [
     { icon: Home, label: 'Home', href: '/' },
-    { icon: Users, label: 'Users', href: '/users' },
+    { icon: Users, label: 'About', href: '/about' },
     { icon: Settings, label: 'Settings', href: '/settings' },
   ]
 
