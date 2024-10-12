@@ -22,7 +22,7 @@ export default function RootLayout({
   const menuItems = [
     { icon: Home, label: 'Home', href: '/' },
     { icon: Users, label: 'About', href: '/about' },
-    { icon: Settings, label: 'Settings', href: '/settings' },
+    { icon: Settings, label: 'Passkey', href: '/passkeydemo' },
   ]
 
   const Sidebar = () => (
